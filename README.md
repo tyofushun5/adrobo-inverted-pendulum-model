@@ -1,4 +1,4 @@
-# adrobo inverted pendulum (MuJoCo)
+# adrobo inverted pendulum MJCF
 
 二輪倒立振子の MJCF モデルです。MuJoCo での可視化用に簡単な実行スクリプトを添付しています。
 
